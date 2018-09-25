@@ -6,6 +6,7 @@ This utility script takes in input an URL and prints:
 4. Server Response header
 5. Content in JSON format
 6. Content in TEXT format
+
 The utility is provided by Sukhdev Mohan <sukhdev.mohan@gmail.com> under GPL licence.
 
 The script automatically dump a report with today's datetime.
